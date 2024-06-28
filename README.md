@@ -4,7 +4,7 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Web Developer
 -------------
 
-🧠  I'm currently learning TypeScript, NextJS and mainly focused on MERN stack.
+🧠  I'm currently learning TypeScript, NextJS and i'm mainly focused on learning and developing with MERN stack.
 
 ### Languages and Tools
 
