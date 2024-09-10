@@ -1,7 +1,7 @@
 Web Developer
 -------------
 
-🧠  I'm currently learning TypeScript, NextJS and i'm mainly focused on learning and developing with MERN stack.
+🧠  I'm currently learning NextJS and i'm mainly focused on learning and developing with MERN stack.
 
 ### Languages and Tools
 
