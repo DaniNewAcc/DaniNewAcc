@@ -1,8 +1,6 @@
 Web Developer
 -------------
 
-🧠  I'm currently learning NextJS and i'm mainly focused on learning and developing with MERN stack.
-
 ### Languages and Tools
 
 <table align="left"><tr><td>
