@@ -1,4 +1,4 @@
-Web Developer
+Fullstack Developer
 -------------
 
 ### Languages and Tools
